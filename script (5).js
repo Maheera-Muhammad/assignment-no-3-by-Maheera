@@ -1,7 +1,7 @@
 /*
 JavaScript Assignment Solutions
-Author: [Your Name]
-Date: [Current Date]
+Author: Maheera Muhammad
+Date: 28-january-2026
 */
 
 // PART A: LOOPS
@@ -105,4 +105,5 @@ console.log("\nAdditional test cases:");
 console.log("85 marks → Grade:", assignGrade(85));
 console.log("65 marks → Grade:", assignGrade(65));
 console.log("45 marks → Grade:", assignGrade(45));
+
 console.log("30 marks → Grade:", assignGrade(30));
